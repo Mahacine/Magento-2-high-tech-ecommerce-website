@@ -1,5 +1,5 @@
 /.modman/
-/app/*
+#/app/*
 /bin/*
 /dev/*
 /bin/*
